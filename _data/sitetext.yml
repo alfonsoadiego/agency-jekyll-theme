@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Softare Engineer
+      #    text: It's Nice To Meet You
+      #    button: Tell Me More
+      #    buttonlink: "#services"
 
   services:
     title: "Services"
@@ -69,10 +69,14 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About"
+    text: "Who am I"
+    body: 
+      - paragraph: "Originating *from* the vibrant landscapes of southern Spain, I bring to the table almost a decade and a half of experience as a Senior Software Engineer. This journey, underpinned by a Bachelor's degree in Computer Science and a family background in the military, has shaped me into a professional with unwavering integrity, adaptability, and a commitment to excellence." 
+      - paragraph: "Professionally, I've carved a niche in the banking and gambling industries, armed with expertise in Java, Spring, JavaScript, Kubernetes, and Apache Kafka. My technical acumen is enriched by a leadership style that emphasizes team empowerment and the delivery of high-quality, dependable code."
+      - paragraph: "Distinctive in my approach, I integrate my family's values of discipline and precision in leading teams towards success. Joining your project, I offer not just a wealth of technical skills, but a partnership geared towards navigating complex challenges efficiently and transforming them into tangible achievements."
     section: about
+    image: assets/img/team/Profile.jpg
 
   clients:
     section: clients
