@@ -18,18 +18,26 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Specialized in crafting scalable, efficient software solutions, focusing on high-availability systems, microservices, API integration, agile development, and data-driven design"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Microservices Architecture Expertise"
+        desc: " Designing scalable, efficient microservices for complex, distributed software systems."
+        icon: fas fa-project-diagram #find more at https://fontawesome.com/icons
+      - title: "Advanced API Development and Integration"
+        desc: "Building and integrating sophisticated APIs for enhanced software interoperability and functionality."
+        icon: fas fa-plug
+      - title: "Agile Development with Continuous Deployment"
+        desc: "Implementing Agile methodologies and continuous deployment for efficient, iterative software development."
+        icon: fas fa-tasks
+      - title: "High-Availability System Development"
+        desc: "Crafting robust software for critical operations with minimal downtime in demanding environments"
+        icon: fas fa-chart-line
+      - title: "TDD practitioner"
+        desc: "As a way of ensuring high-quality easy to mantain solutions"
+        icon: fas fa-bug
+
+
 
   portfolio:
     title: "Portfolio"
