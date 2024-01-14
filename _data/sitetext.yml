@@ -12,9 +12,9 @@
 en: &DEFAULT_EN
   header:
     title: Softare Engineer
-      #    text: It's Nice To Meet You
-      #    button: Tell Me More
-      #    buttonlink: "#services"
+    text: Techical leadership and innovation
+    button: Discover More
+    buttonlink: "#about"
 
   services:
     title: "Services"
